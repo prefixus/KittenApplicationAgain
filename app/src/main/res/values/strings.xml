@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KittenApplication</string>
+    <string name="hello_world_text">Hello World!</string>
+    <string name="kitten_content_description">Very nice kitten</string>
+    <string name="button_text">Scare kitten!</string>
+    <string name="button_text_calm_down">Calm down</string>
+    <string name="app_hello_text">Aplikacja uruchomiona</string>
+    <string name="lifecycle_button_text">Open activity</string>
+</resources>
